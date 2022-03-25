@@ -12,5 +12,21 @@
 ---
 ### Week3 에서 배운 점.
 
+
+```{p}
+
+select name, salary, dept_name
+from instructor
+where dept_name in
+(
+  select dept_name
+  from student
+  where dept_name like '_i%'
+);
+
+```
+
+
+
 ---
 ### week4 에서 배운 점.

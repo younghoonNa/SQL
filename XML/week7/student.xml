@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_list>
+	<student>
+		<name>헐크</name>
+		<student_number>20185121</student_number>
+	</student>
+	<student>
+		<name>캡틴아메리카</name>
+		<student_number>20185111</student_number>
+	</student>
+	<student>
+		<name>아이언맨</name>
+		<student_number>20185134</student_number>
+	</student>
+	<student>
+		<name>호크아이</name>
+		<student_number>20185210</student_number>
+	</student>
+	<student>
+		<name>토르</name>
+		<student_number>20185100</student_number>
+	</student>
+</student_list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT people (person*)>
+<!ELEMENT person (name, (pet|hobby)*)>
+
+<!ELEMENT name (#PCDATA|firstname)*>
+
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT hobby (#PCDATA)>
+<!ELEMENT pet (#PCDATA)>
+
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer_list>
+	<customer customer_number="20185121">
+		<name>헐크</name>
+		<account>500</account>
+	</customer>
+	<customer customer_number="20185111">
+		<name>캡틴아메리카</name>
+		<account>5000</account>
+	</customer>
+	<customer customer_number="20185134">
+		<name>아이언맨</name>
+		<account>7500</account>
+	</customer>
+	<customer customer_number="20185210">
+		<name>호크아이</name>
+		<account>700</account>
+	</customer>
+	<customer customer_number="20185200">
+		<name>토르</name>
+		<account>9800</account>
+	</customer>
+</customer_list>

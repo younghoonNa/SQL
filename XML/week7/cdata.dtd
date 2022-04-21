@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT people (person*)>
+<!ELEMENT person (name, pet)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT pet (#PCDATA)>
+
+<!ATTLIST pet species (cat|dog|bird) #REQUIRED
+		sex CDATA #FIXED "male">
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE people SYSTEM "test.dtd">
+
+<people>
+	<person>
+		<name>영훈.
+			<firstname>나</firstname>
+		</name>
+	</person>
+	
+	<person>
+		<name>나영나영훈ㅇ</name>
+	</person>
+	
+</people>

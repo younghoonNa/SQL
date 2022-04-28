@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person>
+		<name>Joseph</name>
+		<pet species = "cat">coco</pet>
+	</person>
+	
+	<person>
+		<name>David</name>
+		<pet species = "cat">sonic</pet>
+	</person>
+
+	<person>
+		<name>Garret</name>
+		<pet species = "dog">stephon</pet>
+	</person>
+
+</people>

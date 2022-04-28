@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_list>
+	<book year="2017">
+		<title>Justice</title>
+		<author>
+			<last>Stevens</last>
+			<first>W.</first>
+		</author>
+		<publisher>Addison-Wesley</publisher>
+		<price>48.85</price>
+	</book>
+	<book year="1992">
+		<title>Operating System Concepts</title>
+		<author>
+			<last>Addison-Wesley</last>
+			<first>W.</first>
+		</author>
+		<publisher>Addison-Wesley</publisher>
+		<price>65.95</price>
+	</book>
+	<book year="2005">
+		<title>Data On the Web</title>
+		<author>
+			<last>Abiteboul</last>
+			<first>Serge</first>
+		</author>
+		<publisher>Morgan Kaufmann Publishers</publisher>
+		<price>39.99</price>
+	</book>
+	<book year="2011">
+		<title>The Economics of Technology and Content for Digital TV</title>
+		<author>
+			<last>Gerbarg</last>
+			<first>Darcy</first>
+		</author>
+		<publisher>Kluwer Academic</publisher>
+		<price>129.95</price>
+	</book>
+</book_list>
